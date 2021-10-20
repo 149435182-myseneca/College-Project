@@ -1,5 +1,5 @@
-# Question 1 - Project 1 - SRT211NSA
-# Dinh Quy Pham - Yu Huang
+# Project 1 - SRT211NSA
+# Dinh Quy Pham
 
 import csv
 
